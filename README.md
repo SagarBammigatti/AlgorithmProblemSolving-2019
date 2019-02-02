@@ -1,2 +1,2 @@
 # AlgorithmProblemSolving-2019
-CSE 6th sem
+KLE Technological University CSE 6th sem
